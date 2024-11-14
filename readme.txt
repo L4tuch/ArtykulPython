@@ -6,7 +6,7 @@ Podpisy pod grafikami umieszczone w tagach <figcaption>.
 Gotowy plik HTML jest zapisany do pliku i może być wykorzystany do tworzenia stron internetowych na podstawie zawartości tekstowej.
 
 Wymagania
-Python 3.6 lub nowszy
+Python 3 lub nowszy
 Biblioteka OpenAI (openai)
 Konto OpenAI z ważnym kluczem API
 Instalacja
